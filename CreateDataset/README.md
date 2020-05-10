@@ -1,8 +1,8 @@
-Download files in the same directory. 
-Create a folder , name it dataextra
-Create 2 subfolers , train-test
-Inside each subfolder create 3 subfolders , covid19-pneumonia-normal
-Run CovidxDataset ,  ~ 20min
+1. Download files in the same directory. 
+2. Create a folder , name it dataextra
+3. Create 2 subfolers , train-test
+4. Inside each subfolder create 3 subfolders , covid19-pneumonia-normal
+5. Run CovidxDataset ,  ~ 20min
 
 Results:
 
