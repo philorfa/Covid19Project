@@ -6,7 +6,7 @@
 
 Results:
 
-Train count:  {'normal': 7966, 'pneumonia': 5451, 'COVID-19': 228} \n
-Test count:  {'normal': 885, 'pneumonia': 594, 'COVID-19': 31} \n
-Total length of train:  13645
-Total length of test:  1510
+- Train count:  {'normal': 7966, 'pneumonia': 5451, 'COVID-19': 228}
+- Test count:  {'normal': 885, 'pneumonia': 594, 'COVID-19': 31}
+- Total length of train:  13645
+- Total length of test:  1510
