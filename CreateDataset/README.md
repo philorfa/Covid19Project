@@ -1,7 +1,7 @@
 
 1. git clone https://github.com/ieee8023/covid-chestxray-dataset.git
 2. git clone https://github.com/agchung/Figure1-COVID-chestxray-dataset
-3. go to this link to download the RSNA pneumonia dataset
+3. go to this link https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data to download the RSNA pneumonia dataset
 
 
 
