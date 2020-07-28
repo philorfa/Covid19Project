@@ -4,6 +4,7 @@
 3. git clone https://github.com/agchung/Actualmed-COVID-chestxray-dataset.git
 4. go to https://www.kaggle.com/tawsifurrahman/covid19-radiography-database to download the COVID-19 Radiography database. Only the COVID-19 image folder and metadata file is required. 
 5. go to https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data to download the RSNA pneumonia dataset
+6. Download rsna_test_patients_pneumonia.npy and rsna_test_patients_normal.npy
 
 
 
